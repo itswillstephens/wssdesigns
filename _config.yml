@@ -1,0 +1,13 @@
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            WSS Designs
+tagline:
+description:      WSS Designs
+url:              
+baseurl:          wssdesigns.com
+author:
+  name:           'Will Stephens'
+
+paginate:         5
